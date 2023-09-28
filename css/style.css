@@ -27,6 +27,11 @@
   box-sizing: border-box;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
+
 body{
   font-family: 'Open sans', sans-serif ;
   margin: 0;
